@@ -19,9 +19,12 @@ blog: true
 Now, for downloading the software please visit this [Download Link](https://www.jetbrains.com/pycharm/download/#section=linux)
 
 
-System requirements:
+**System requirements**:
+
     * 512 MB RAM minimum, 1 GB RAM recommended
+
     * 1024x768 minimum screen resolution
+    
     * Python 2.4 or higher, Jython, PyPy or IronPython
 
 ### Instructions
