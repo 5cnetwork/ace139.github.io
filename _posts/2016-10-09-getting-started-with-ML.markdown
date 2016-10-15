@@ -8,7 +8,7 @@ tag:
 - python
 - supervised
 - unsupervised
-blog: true
+blog: false
 star: true
 ---
 
