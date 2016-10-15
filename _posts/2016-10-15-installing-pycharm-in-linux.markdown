@@ -12,7 +12,7 @@ blog: true
 
 # Installing JetBrains PyCharm IDE in Linux
 
-**PyCharm** has been controversially the best IDE available for Python and it's frameworks. It's competitor **Microsoft Visual Studio** is also very good but it comes with a whole lot of features irrelevant to Python and hence resource hungry. PyCharm is on the hand comparatively less resource hungry and Python oriented. PyCharm also allows to acquire [free license](https://www.jetbrains.com/student/) for Students.
+**PyCharm** has been controversially the best IDE available for Python and it's frameworks. It's competitor **Microsoft Visual Studio** is also very good but it comes with a whole lot of features irrelevant to Python and hence resource hungry. PyCharm on the other hand is comparatively less resource hungry and Python concentrated. PyCharm also allows to acquire [free license](https://www.jetbrains.com/student/) for Students. So if you are a student, grab one and use Professonal Edition for free or You can use the Community Edition.
 
 ### Download
 
